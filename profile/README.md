@@ -1,5 +1,7 @@
 # Practice's overview
 
+https://souhailmerroun.notion.site/souhailmerroun-practice-e14dc79207184a00aeb99313605f9eb7
+
 Things i'm learning or want to learn
 - react table & react query practice with fiat wallet
 - eslint understand all the rules
