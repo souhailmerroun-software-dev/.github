@@ -5,6 +5,7 @@
 * [css](https://github.com/souhailmerroun-practice/css)
 
 * [javascript](https://github.com/souhailmerroun-practice/javascript)
+  * [typescript](https://github.com/souhailmerroun-practice/typescript)
   * [reactjs](https://github.com/souhailmerroun-practice/reactjs)
     * [nextjs](https://github.com/souhailmerroun-practice/nextjs)
 
