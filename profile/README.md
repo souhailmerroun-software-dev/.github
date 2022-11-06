@@ -19,7 +19,8 @@ _
 
 * [graphql](https://github.com/souhailmerroun-practice/graphql)
 
-* [cypress](https://github.com/souhailmerroun-practice/cypress)
-* [playwright](https://github.com/souhailmerroun-practice/playwright)
+* software-testing
+  * [cypress](https://github.com/souhailmerroun-practice/cypress)
+  * [playwright](https://github.com/souhailmerroun-practice/playwright)
 
 * [kubernetes](https://github.com/souhailmerroun-practice/kubernetes)
