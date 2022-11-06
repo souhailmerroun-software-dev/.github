@@ -3,6 +3,7 @@
 * [html](https://github.com/souhailmerroun-practice/html)
 
 * [css](https://github.com/souhailmerroun-practice/css)
+  * [tailwind](https://github.com/souhailmerroun-practice/tailwindcss)  
 
 * [javascript](https://github.com/souhailmerroun-practice/javascript)
   * [typescript](https://github.com/souhailmerroun-practice/typescript)
