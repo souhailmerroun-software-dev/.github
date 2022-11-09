@@ -1,6 +1,6 @@
 # souhailmerroun-practice
 
-- [Web app](./profile/web-app/web-app.md)
+- [Web app](./web-app/web-app.md)
 
 _
 
