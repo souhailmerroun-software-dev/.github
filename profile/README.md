@@ -6,15 +6,10 @@
 
 * [Mobile app](./mobile-app/mobile-app.md)
 
-_
+## code quality
 
-* [graphql](https://github.com/souhailmerroun-practice/graphql)
+* [pre-commit](https://github.com/souhailmerroun-practice/pre-commit)
 
-_
-
-* software-testing
+## software testing
   * [cypress](https://github.com/souhailmerroun-practice/cypress)
   * [playwright](https://github.com/souhailmerroun-practice/playwright)
-_
-
-* [kubernetes](https://github.com/souhailmerroun-practice/kubernetes)
