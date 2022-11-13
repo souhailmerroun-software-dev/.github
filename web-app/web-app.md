@@ -1,27 +1,41 @@
 # Web app
 
+Laravel Solution stack
+React Solution stack
+
 Blade -> https://laravel.com/docs/9.x/blade
 
-React -> //
-
-# ui
+## programming language
 
 * [html](https://github.com/souhailmerroun-practice/html)
 
 * [css](https://github.com/souhailmerroun-practice/css)
-  * [tailwindcss](https://github.com/souhailmerroun-practice/tailwindcss) 
+
+* [javascript](https://github.com/souhailmerroun-practice/javascript)
+  * [typescript](https://github.com/souhailmerroun-practice/typescript)
+
+## framework
 
 * [storybook](https://github.com/souhailmerroun-practice/storybook)
 
-* [javascript](https://github.com/souhailmerroun-practice/javascript)
-  * [eslint](https://github.com/souhailmerroun-practice/eslint)
-  * [typescript](https://github.com/souhailmerroun-practice/typescript)
-  * [reactjs](https://github.com/souhailmerroun-practice/reactjs)
-    * [nextjs](https://github.com/souhailmerroun-practice/nextjs)
-    * [react-query](https://github.com/souhailmerroun-practice/react-query)
-    * https://github.com/souhailmerroun-practice/react-table
-    * https://github.com/souhailmerroun-practice/testing-library
-    * https://github.com/souhailmerroun-practice/Jest
+* [tailwindcss](https://github.com/souhailmerroun-practice/tailwindcss) 
+
+* [reactjs](https://github.com/souhailmerroun-practice/reactjs)
+  * [nextjs](https://github.com/souhailmerroun-practice/nextjs)
+
+## code quality
+
+* [eslint](https://github.com/souhailmerroun-practice/eslint)
+
+## software testing
+
+* https://github.com/souhailmerroun-practice/testing-library
+* https://github.com/souhailmerroun-practice/Jest
+
+## software package
+
+* [react-query](https://github.com/souhailmerroun-practice/react-query)
+* https://github.com/souhailmerroun-practice/react-table
 
 ## web api mock object
 
