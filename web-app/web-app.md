@@ -1,5 +1,9 @@
 # Web app
 
+Blade -> https://laravel.com/docs/9.x/blade
+
+React -> //
+
 # ui
 
 * [html](https://github.com/souhailmerroun-practice/html)
