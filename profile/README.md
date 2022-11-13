@@ -1,10 +1,10 @@
-# souhailmerroun-practice
+# Solution stacks
 
-* [Web app](./web-app/web-app.md)
+* [Web app](./solution-stack/web-app/web-app.md)
 
-* [Web api](./web-api/web-api.md)
+* [Web api](./solution-stack/web-api/web-api.md)
 
-* [Mobile app](./mobile-app/mobile-app.md)
+* [Mobile app](./solution-stack/mobile-app/mobile-app.md)
 
 ## code quality
 

@@ -1,9 +1,4 @@
-# Web app
-
-Laravel Solution stack
-React Solution stack
-
-Blade -> https://laravel.com/docs/9.x/blade
+# React
 
 ## programming language
 
@@ -21,7 +16,11 @@ Blade -> https://laravel.com/docs/9.x/blade
 * [tailwindcss](https://github.com/souhailmerroun-practice/tailwindcss) 
 
 * [reactjs](https://github.com/souhailmerroun-practice/reactjs)
-  * [nextjs](https://github.com/souhailmerroun-practice/nextjs)
+
+| Choice |
+| ----------- |
+| [nextjs](https://github.com/souhailmerroun-practice/nextjs) |
+| [create-react-app](https://github.com/souhailmerroun-practice/create-react-app) |
 
 ## code quality
 
