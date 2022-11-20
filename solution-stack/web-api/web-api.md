@@ -12,6 +12,8 @@
 
 * [php](https://github.com/souhailmerroun-practice/php)
   * [laravel](https://github.com/souhailmerroun-practice/laravel)
+  * [symfony](https://github.com/souhailmerroun-practice/symfony)
+  * [apiplatform](https://github.com/souhailmerroun-practice/apiplatform)
 
 * [nodejs](https://github.com/souhailmerroun-practice/nodejs) 
   * [expressjs](https://github.com/souhailmerroun-practice/expressjs)
