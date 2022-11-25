@@ -33,9 +33,15 @@
 
 ## software package
 
-* [react-query](https://github.com/souhailmerroun-practice/react-query)
-* https://github.com/souhailmerroun-practice/react-table
+| Choice |
+| ----------- |
+| [swr](https://github.com/souhailmerroun-practice/swr) |
+| [react-query](https://github.com/souhailmerroun-practice/react-query) |
+
+* [react-table](https://github.com/souhailmerroun-practice/react-table)
 
 ## web api mock object
 
+* [json-server](https://github.com/souhailmerroun-practice/json-server)
+* [restapify](https://github.com/souhailmerroun-practice/restapify)
 * [mockroon](https://github.com/souhailmerroun-practice/mockoon)
