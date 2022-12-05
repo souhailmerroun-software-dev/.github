@@ -42,6 +42,7 @@
 
 ## web api mock object
 
+* [mswjs](https://github.com/souhailmerroun-practice/mswjs)
 * [json-server](https://github.com/souhailmerroun-practice/json-server)
 * [restapify](https://github.com/souhailmerroun-practice/restapify)
 * [mockroon](https://github.com/souhailmerroun-practice/mockoon)
