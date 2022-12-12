@@ -2,26 +2,20 @@
 
 ## ide
 
-* [vscode](https://github.com/souhailmerroun-software-development/vscode)
+https://github.com/stars/souhailmerroun/lists/ide
 
-## programming language
+## programming language & framework
 
 * [html](https://github.com/souhailmerroun-software-development/html)
 
 * [css](https://github.com/souhailmerroun-software-development/css)
+ * [storybook](https://github.com/souhailmerroun-software-development/storybook)
+ *  https://github.com/stars/souhailmerroun/lists/tailwindcss
 
 * [javascript](https://github.com/souhailmerroun-software-development/javascript)
   * [typescript](https://github.com/souhailmerroun-software-development/typescript)
-
-## framework
-
-* [storybook](https://github.com/souhailmerroun-software-development/storybook)
-
-* [tailwindcss](https://github.com/souhailmerroun-software-development/tailwindcss) 
-
-* [reactjs](https://github.com/souhailmerroun-software-development/reactjs)
- * [create-react-app](https://github.com/souhailmerroun-software-development/create-react-app)
- * [nextjs](https://github.com/souhailmerroun-software-development/nextjs)
+   * https://github.com/stars/souhailmerroun/lists/reactjs
+   * https://github.com/stars/souhailmerroun/lists/nextjs
 
 ## code quality
 
@@ -42,9 +36,6 @@
 
 * [react-table](https://github.com/souhailmerroun-software-development/react-table)
 
-## web api mock object
+## Mock object
 
-* [mswjs](https://github.com/souhailmerroun-software-development/mswjs)
-* [json-server](https://github.com/souhailmerroun-software-development/json-server)
-* [restapify](https://github.com/souhailmerroun-software-development/restapify)
-* [mockroon](https://github.com/souhailmerroun-software-development/mockoon)
+https://github.com/stars/souhailmerroun/lists/mock-object
