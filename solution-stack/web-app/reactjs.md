@@ -38,6 +38,7 @@
 
 * [reactjs-software-package](https://github.com/stars/souhailmerroun/lists/reactjs-software-package)
 
+* [nextjs-software-package](https://github.com/stars/souhailmerroun/lists/nextjs-software-package)
 
 ## Mock object
 
