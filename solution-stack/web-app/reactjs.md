@@ -34,9 +34,9 @@
 
 ## software package
 
-* [javascript-software-package](https://github.com/souhailmerroun-software-development/javascript-software-package)
+* [javascript-software-package](https://github.com/stars/souhailmerroun/lists/javascript-software-package)
 
-* [reactjs-software-package](https://github.com/souhailmerroun-software-development/reactjs-software-package)
+* [reactjs-software-package](https://github.com/stars/souhailmerroun/lists/reactjs-software-package)
 
 
 ## Mock object
