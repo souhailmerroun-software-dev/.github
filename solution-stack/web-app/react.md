@@ -20,11 +20,8 @@
 * [tailwindcss](https://github.com/souhailmerroun-software-development/tailwindcss) 
 
 * [reactjs](https://github.com/souhailmerroun-software-development/reactjs)
-
-| Choice |
-| ----------- |
-| [nextjs](https://github.com/souhailmerroun-software-development/nextjs) |
-| [create-react-app](https://github.com/souhailmerroun-software-development/create-react-app) |
+ * [create-react-app](https://github.com/souhailmerroun-software-development/create-react-app)
+ * [nextjs](https://github.com/souhailmerroun-software-development/nextjs)
 
 ## code quality
 
@@ -32,13 +29,14 @@
 
 ## software testing
 
-* https://github.com/souhailmerroun-software-development/testing-library
-* https://github.com/souhailmerroun-software-development/Jest
+* [testing-library](https://github.com/souhailmerroun-software-development/testing-library)
+* [jest](https://github.com/souhailmerroun-software-development/jest)
 
 ## software package
 
-| Choice |
+| Data fetching |
 | ----------- |
+| [axios](https://github.com/souhailmerroun-software-development/axios) |
 | [swr](https://github.com/souhailmerroun-software-development/swr) |
 | [react-query](https://github.com/souhailmerroun-software-development/react-query) |
 
