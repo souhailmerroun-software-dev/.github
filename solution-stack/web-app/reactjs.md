@@ -4,6 +4,8 @@
 
 * [vscode](https://github.com/souhailmerroun-software-development/vscode)
 
+* https://github.com/stars/souhailmerroun/lists/typescript-ide
+
 ## programming language
 
 * [html](https://github.com/souhailmerroun-software-development/html)
