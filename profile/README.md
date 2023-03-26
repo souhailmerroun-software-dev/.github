@@ -13,6 +13,8 @@ Software stack is a set of software subsystems or components needed to create a 
 
 ## 3. Choose your stack
 
+This collection features tools, frameworks, and software packages that I have personally selected for their stability, efficiency in building web applications, and popularity.
+
 ### Version control
 
 - Github Flow https://docs.github.com/en/get-started/quickstart/github-flow
