@@ -26,8 +26,7 @@ This collection features tools, frameworks, and software packages that I have pe
 ### Framework
 
 - Laravel 10 https://laravel.com/docs/10.x
-- Next.js 13 https://beta.nextjs.org/docs
-- Next.js 12 https://nextjs.org/docs/getting-started
+- Next.js 13 https://beta.nextjs.org/docs, https://nextjs.org/docs/getting-started
  
 ### UI
 - CSS
