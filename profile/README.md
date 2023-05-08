@@ -1,10 +1,8 @@
 # Software development
 
-Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components.
+Visit website for more information.
 
-## 1. Solution Stack
-
-Software stack is a set of software subsystems or components needed to create a complete platform.
+(outdated content)
 
 ## 2. Example
 
