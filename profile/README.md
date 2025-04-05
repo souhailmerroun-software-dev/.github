@@ -1,27 +1,27 @@
 ## [.github](https://github.com/souhailmerroun-software-dev/.github)
-- [main](https://github.com/souhailmerroun-software-dev/.github/tree/main): 3 days ago
+- [main](https://github.com/souhailmerroun-software-dev/.github/tree/main): 23 hours ago
 
 ## [nextjs](https://github.com/souhailmerroun-software-dev/nextjs)
-- [15.2-getting-started-installation](https://github.com/souhailmerroun-software-dev/nextjs/tree/15.2-getting-started-installation): 6 days ago
-- [main](https://github.com/souhailmerroun-software-dev/nextjs/tree/main): 6 days ago
+- [15.2-getting-started-installation](https://github.com/souhailmerroun-software-dev/nextjs/tree/15.2-getting-started-installation): 7 days ago
+- [main](https://github.com/souhailmerroun-software-dev/nextjs/tree/main): 7 days ago
 - [getting-started/layouts-and-pages](https://github.com/souhailmerroun-software-dev/nextjs/tree/getting-started/layouts-and-pages): 2 months ago
 
 ## [apiplatform](https://github.com/souhailmerroun-software-dev/apiplatform)
-- [4.1-Installation-Using-Symfony-CLI](https://github.com/souhailmerroun-software-dev/apiplatform/tree/4.1-Installation-Using-Symfony-CLI): 6 days ago
-- [main](https://github.com/souhailmerroun-software-dev/apiplatform/tree/main): 6 days ago
+- [4.1-Installation-Using-Symfony-CLI](https://github.com/souhailmerroun-software-dev/apiplatform/tree/4.1-Installation-Using-Symfony-CLI): 7 days ago
+- [main](https://github.com/souhailmerroun-software-dev/apiplatform/tree/main): 7 days ago
 
 ## [laravel](https://github.com/souhailmerroun-software-dev/laravel)
-- [v12x-api-blog](https://github.com/souhailmerroun-software-dev/laravel/tree/v12x-api-blog): 6 days ago
-- [v12.x-installation](https://github.com/souhailmerroun-software-dev/laravel/tree/v12.x-installation): 6 days ago
-- [master](https://github.com/souhailmerroun-software-dev/laravel/tree/master): 6 days ago
+- [v12x-api-blog](https://github.com/souhailmerroun-software-dev/laravel/tree/v12x-api-blog): 7 days ago
+- [v12.x-installation](https://github.com/souhailmerroun-software-dev/laravel/tree/v12.x-installation): 7 days ago
+- [master](https://github.com/souhailmerroun-software-dev/laravel/tree/master): 7 days ago
 - [laravel-authentification](https://github.com/souhailmerroun-software-dev/laravel/tree/laravel-authentification): 2 years, 4 months ago
 
 ## [cursor](https://github.com/souhailmerroun-software-dev/cursor)
-- [laravel-12x-test](https://github.com/souhailmerroun-software-dev/cursor/tree/laravel-12x-test): 6 days ago
-- [main](https://github.com/souhailmerroun-software-dev/cursor/tree/main): 6 days ago
+- [laravel-12x-test](https://github.com/souhailmerroun-software-dev/cursor/tree/laravel-12x-test): 7 days ago
+- [main](https://github.com/souhailmerroun-software-dev/cursor/tree/main): 7 days ago
 
 ## [reactjs](https://github.com/souhailmerroun-software-dev/reactjs)
-- [main](https://github.com/souhailmerroun-software-dev/reactjs/tree/main): 6 days ago
+- [main](https://github.com/souhailmerroun-software-dev/reactjs/tree/main): 7 days ago
 
 ## [nestjs](https://github.com/souhailmerroun-software-dev/nestjs)
 - [main](https://github.com/souhailmerroun-software-dev/nestjs/tree/main): 2 months ago
@@ -33,7 +33,7 @@
 - [main](https://github.com/souhailmerroun-software-dev/software-dev-practice/tree/main): 1 years, 2 months ago
 
 ## [langchain](https://github.com/souhailmerroun-software-dev/langchain)
-- [main](https://github.com/souhailmerroun-software-dev/langchain/tree/main): 1 years, 2 months ago
+- [main](https://github.com/souhailmerroun-software-dev/langchain/tree/main): 1 years, 3 months ago
 
 ## [expo](https://github.com/souhailmerroun-software-dev/expo)
 - [main](https://github.com/souhailmerroun-software-dev/expo/tree/main): 1 years, 3 months ago
