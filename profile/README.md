@@ -2,34 +2,34 @@
 - [main](https://github.com/souhailmerroun-software-dev/.github/tree/main): 23 hours ago
 
 ## [go](https://github.com/souhailmerroun-software-dev/go)
-- [dspy-example](https://github.com/souhailmerroun-software-dev/go/tree/dspy-example): 7 days ago
-- [main](https://github.com/souhailmerroun-software-dev/go/tree/main): 7 days ago
+- [dspy-example](https://github.com/souhailmerroun-software-dev/go/tree/dspy-example): 8 days ago
+- [main](https://github.com/souhailmerroun-software-dev/go/tree/main): 8 days ago
 
 ## [dspyai](https://github.com/souhailmerroun-software-dev/dspyai)
-- [helloworld](https://github.com/souhailmerroun-software-dev/dspyai/tree/helloworld): 7 days ago
-- [main](https://github.com/souhailmerroun-software-dev/dspyai/tree/main): 7 days ago
+- [helloworld](https://github.com/souhailmerroun-software-dev/dspyai/tree/helloworld): 8 days ago
+- [main](https://github.com/souhailmerroun-software-dev/dspyai/tree/main): 8 days ago
 
 ## [nextjs](https://github.com/souhailmerroun-software-dev/nextjs)
-- [15.2-getting-started-installation](https://github.com/souhailmerroun-software-dev/nextjs/tree/15.2-getting-started-installation): 18 days ago
-- [main](https://github.com/souhailmerroun-software-dev/nextjs/tree/main): 18 days ago
+- [15.2-getting-started-installation](https://github.com/souhailmerroun-software-dev/nextjs/tree/15.2-getting-started-installation): 19 days ago
+- [main](https://github.com/souhailmerroun-software-dev/nextjs/tree/main): 19 days ago
 - [getting-started/layouts-and-pages](https://github.com/souhailmerroun-software-dev/nextjs/tree/getting-started/layouts-and-pages): 3 months ago
 
 ## [apiplatform](https://github.com/souhailmerroun-software-dev/apiplatform)
-- [4.1-Installation-Using-Symfony-CLI](https://github.com/souhailmerroun-software-dev/apiplatform/tree/4.1-Installation-Using-Symfony-CLI): 18 days ago
-- [main](https://github.com/souhailmerroun-software-dev/apiplatform/tree/main): 18 days ago
+- [4.1-Installation-Using-Symfony-CLI](https://github.com/souhailmerroun-software-dev/apiplatform/tree/4.1-Installation-Using-Symfony-CLI): 19 days ago
+- [main](https://github.com/souhailmerroun-software-dev/apiplatform/tree/main): 19 days ago
 
 ## [laravel](https://github.com/souhailmerroun-software-dev/laravel)
-- [v12x-api-blog](https://github.com/souhailmerroun-software-dev/laravel/tree/v12x-api-blog): 18 days ago
-- [v12.x-installation](https://github.com/souhailmerroun-software-dev/laravel/tree/v12.x-installation): 18 days ago
-- [master](https://github.com/souhailmerroun-software-dev/laravel/tree/master): 18 days ago
+- [v12x-api-blog](https://github.com/souhailmerroun-software-dev/laravel/tree/v12x-api-blog): 19 days ago
+- [v12.x-installation](https://github.com/souhailmerroun-software-dev/laravel/tree/v12.x-installation): 19 days ago
+- [master](https://github.com/souhailmerroun-software-dev/laravel/tree/master): 19 days ago
 - [laravel-authentification](https://github.com/souhailmerroun-software-dev/laravel/tree/laravel-authentification): 2 years, 5 months ago
 
 ## [cursor](https://github.com/souhailmerroun-software-dev/cursor)
-- [laravel-12x-test](https://github.com/souhailmerroun-software-dev/cursor/tree/laravel-12x-test): 18 days ago
-- [main](https://github.com/souhailmerroun-software-dev/cursor/tree/main): 18 days ago
+- [laravel-12x-test](https://github.com/souhailmerroun-software-dev/cursor/tree/laravel-12x-test): 19 days ago
+- [main](https://github.com/souhailmerroun-software-dev/cursor/tree/main): 19 days ago
 
 ## [reactjs](https://github.com/souhailmerroun-software-dev/reactjs)
-- [main](https://github.com/souhailmerroun-software-dev/reactjs/tree/main): 18 days ago
+- [main](https://github.com/souhailmerroun-software-dev/reactjs/tree/main): 19 days ago
 
 ## [nestjs](https://github.com/souhailmerroun-software-dev/nestjs)
 - [main](https://github.com/souhailmerroun-software-dev/nestjs/tree/main): 2 months ago
@@ -89,7 +89,7 @@
 - [master](https://github.com/souhailmerroun-software-dev/php/tree/master): 1 years, 11 months ago
 
 ## [html](https://github.com/souhailmerroun-software-dev/html)
-- [master](https://github.com/souhailmerroun-software-dev/html/tree/master): 1 years, 11 months ago
+- [master](https://github.com/souhailmerroun-software-dev/html/tree/master): 2 years, 0 months ago
 - [souhailmerroun-patch-1](https://github.com/souhailmerroun-software-dev/html/tree/souhailmerroun-patch-1): 2 years, 5 months ago
 
 ## [vscode](https://github.com/souhailmerroun-software-dev/vscode)
@@ -121,8 +121,8 @@
 - [main](https://github.com/souhailmerroun-software-dev/pre-commit/tree/main): 2 years, 10 months ago
 
 ## [directus](https://github.com/souhailmerroun-software-dev/directus)
-- [self-hosted-quickstart-guide](https://github.com/souhailmerroun-software-dev/directus/tree/self-hosted-quickstart-guide): 2 years, 6 months ago
-- [main](https://github.com/souhailmerroun-software-dev/directus/tree/main): 2 years, 6 months ago
+- [self-hosted-quickstart-guide](https://github.com/souhailmerroun-software-dev/directus/tree/self-hosted-quickstart-guide): 2 years, 7 months ago
+- [main](https://github.com/souhailmerroun-software-dev/directus/tree/main): 2 years, 7 months ago
 
 ## [agora](https://github.com/souhailmerroun-software-dev/agora)
 - [agora-react-basic-webinar-with-both-microphone-and-camera-and-screen-share](https://github.com/souhailmerroun-software-dev/agora/tree/agora-react-basic-webinar-with-both-microphone-and-camera-and-screen-share): 2 years, 7 months ago
@@ -158,7 +158,7 @@
 ## [strapi](https://github.com/souhailmerroun-software-dev/strapi)
 - [quick-start+config-sync](https://github.com/souhailmerroun-software-dev/strapi/tree/quick-start+config-sync): 2 years, 8 months ago
 - [quick-start](https://github.com/souhailmerroun-software-dev/strapi/tree/quick-start): 2 years, 8 months ago
-- [main](https://github.com/souhailmerroun-software-dev/strapi/tree/main): 2 years, 8 months ago
+- [main](https://github.com/souhailmerroun-software-dev/strapi/tree/main): 2 years, 9 months ago
 
 ## [docker](https://github.com/souhailmerroun-software-dev/docker)
 - [main](https://github.com/souhailmerroun-software-dev/docker/tree/main): 2 years, 10 months ago
