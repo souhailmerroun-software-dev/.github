@@ -2,7 +2,7 @@
 - [main](https://github.com/souhailmerroun-software-dev/.github/tree/main): 23 hours ago
 
 ## [css](https://github.com/souhailmerroun-software-dev/css)
-- [table-fixed-nav](https://github.com/souhailmerroun-software-dev/css/tree/table-fixed-nav): 4 days ago
+- [table-fixed-nav](https://github.com/souhailmerroun-software-dev/css/tree/table-fixed-nav): 5 days ago
 - [main](https://github.com/souhailmerroun-software-dev/css/tree/main): 3 years, 0 months ago
 
 ## [go](https://github.com/souhailmerroun-software-dev/go)
