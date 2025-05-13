@@ -1,8 +1,12 @@
+## [shadcn-ui](https://github.com/souhailmerroun-software-dev/shadcn-ui)
+- [registry](https://github.com/souhailmerroun-software-dev/shadcn-ui/tree/registry): 4 hours ago
+- [main](https://github.com/souhailmerroun-software-dev/shadcn-ui/tree/main): 5 hours ago
+
 ## [.github](https://github.com/souhailmerroun-software-dev/.github)
 - [main](https://github.com/souhailmerroun-software-dev/.github/tree/main): 1 days ago
 
 ## [css](https://github.com/souhailmerroun-software-dev/css)
-- [table-fixed-nav](https://github.com/souhailmerroun-software-dev/css/tree/table-fixed-nav): 7 days ago
+- [table-fixed-nav](https://github.com/souhailmerroun-software-dev/css/tree/table-fixed-nav): 8 days ago
 - [main](https://github.com/souhailmerroun-software-dev/css/tree/main): 3 years, 0 months ago
 
 ## [go](https://github.com/souhailmerroun-software-dev/go)
@@ -55,9 +59,6 @@
 
 ## [playwright](https://github.com/souhailmerroun-software-dev/playwright)
 - [main](https://github.com/souhailmerroun-software-dev/playwright/tree/main): 1 years, 6 months ago
-
-## [shadcn-ui](https://github.com/souhailmerroun-software-dev/shadcn-ui)
-- [main](https://github.com/souhailmerroun-software-dev/shadcn-ui/tree/main): 1 years, 6 months ago
 
 ## [radix-ui](https://github.com/souhailmerroun-software-dev/radix-ui)
 - [main](https://github.com/souhailmerroun-software-dev/radix-ui/tree/main): 1 years, 6 months ago
