@@ -6,7 +6,7 @@
 - [main](https://github.com/souhailmerroun-software-dev/shadcn-ui/tree/main): 1 months ago
 
 ## [css](https://github.com/souhailmerroun-software-dev/css)
-- [table-fixed-nav](https://github.com/souhailmerroun-software-dev/css/tree/table-fixed-nav): 1 months ago
+- [table-fixed-nav](https://github.com/souhailmerroun-software-dev/css/tree/table-fixed-nav): 2 months ago
 - [main](https://github.com/souhailmerroun-software-dev/css/tree/main): 3 years, 2 months ago
 
 ## [go](https://github.com/souhailmerroun-software-dev/go)
@@ -49,7 +49,7 @@
 - [main](https://github.com/souhailmerroun-software-dev/software-dev-practice/tree/main): 1 years, 5 months ago
 
 ## [langchain](https://github.com/souhailmerroun-software-dev/langchain)
-- [main](https://github.com/souhailmerroun-software-dev/langchain/tree/main): 1 years, 5 months ago
+- [main](https://github.com/souhailmerroun-software-dev/langchain/tree/main): 1 years, 6 months ago
 
 ## [expo](https://github.com/souhailmerroun-software-dev/expo)
 - [main](https://github.com/souhailmerroun-software-dev/expo/tree/main): 1 years, 6 months ago
