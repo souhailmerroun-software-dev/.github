@@ -98,7 +98,7 @@
 - [souhailmerroun-patch-1](https://github.com/souhailmerroun-software-dev/html/tree/souhailmerroun-patch-1): 2 years, 8 months ago
 
 ## [vscode](https://github.com/souhailmerroun-software-dev/vscode)
-- [main](https://github.com/souhailmerroun-software-dev/vscode/tree/main): 2 years, 6 months ago
+- [main](https://github.com/souhailmerroun-software-dev/vscode/tree/main): 2 years, 7 months ago
 
 ## [restapify](https://github.com/souhailmerroun-software-dev/restapify)
 - [main](https://github.com/souhailmerroun-software-dev/restapify/tree/main): 2 years, 7 months ago
