@@ -2,8 +2,8 @@
 - [main](https://github.com/souhailmerroun-software-dev/.github/tree/main): 23 hours ago
 
 ## [shadcn-ui](https://github.com/souhailmerroun-software-dev/shadcn-ui)
-- [registry](https://github.com/souhailmerroun-software-dev/shadcn-ui/tree/registry): 1 months ago
-- [main](https://github.com/souhailmerroun-software-dev/shadcn-ui/tree/main): 1 months ago
+- [registry](https://github.com/souhailmerroun-software-dev/shadcn-ui/tree/registry): 2 months ago
+- [main](https://github.com/souhailmerroun-software-dev/shadcn-ui/tree/main): 2 months ago
 
 ## [css](https://github.com/souhailmerroun-software-dev/css)
 - [table-fixed-nav](https://github.com/souhailmerroun-software-dev/css/tree/table-fixed-nav): 2 months ago
