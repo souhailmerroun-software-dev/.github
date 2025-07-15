@@ -204,23 +204,23 @@
 
 ## [android](https://github.com/souhailmerroun-software-dev/android)
 - [issues/1-android-testing-out](https://github.com/souhailmerroun-software-dev/android/tree/issues/1-android-testing-out): 3 years, 5 months ago
-- [master](https://github.com/souhailmerroun-software-dev/android/tree/master): 3 years, 7 months ago
+- [master](https://github.com/souhailmerroun-software-dev/android/tree/master): 3 years, 8 months ago
 
 ## [ionic](https://github.com/souhailmerroun-software-dev/ionic)
 - [issues/1-ionic-testing-out](https://github.com/souhailmerroun-software-dev/ionic/tree/issues/1-ionic-testing-out): 3 years, 5 months ago
 - [master](https://github.com/souhailmerroun-software-dev/ionic/tree/master): 3 years, 5 months ago
 
 ## [babel](https://github.com/souhailmerroun-software-dev/babel)
-- [main](https://github.com/souhailmerroun-software-dev/babel/tree/main): 3 years, 6 months ago
+- [main](https://github.com/souhailmerroun-software-dev/babel/tree/main): 3 years, 7 months ago
 
 ## [svelte](https://github.com/souhailmerroun-software-dev/svelte)
 - [master](https://github.com/souhailmerroun-software-dev/svelte/tree/master): 3 years, 7 months ago
 
 ## [chrome-extensions](https://github.com/souhailmerroun-software-dev/chrome-extensions)
-- [master](https://github.com/souhailmerroun-software-dev/chrome-extensions/tree/master): 3 years, 7 months ago
+- [master](https://github.com/souhailmerroun-software-dev/chrome-extensions/tree/master): 3 years, 8 months ago
 
 ## [jest](https://github.com/souhailmerroun-software-dev/jest)
-- [master](https://github.com/souhailmerroun-software-dev/jest/tree/master): 3 years, 7 months ago
+- [master](https://github.com/souhailmerroun-software-dev/jest/tree/master): 3 years, 8 months ago
 
 ## [vue.js](https://github.com/souhailmerroun-software-dev/vue.js)
 - [master](https://github.com/souhailmerroun-software-dev/vue.js/tree/master): 3 years, 8 months ago
