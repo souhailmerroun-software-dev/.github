@@ -94,7 +94,7 @@
 - [master](https://github.com/souhailmerroun-software-dev/php/tree/master): 2 years, 2 months ago
 
 ## [html](https://github.com/souhailmerroun-software-dev/html)
-- [master](https://github.com/souhailmerroun-software-dev/html/tree/master): 2 years, 2 months ago
+- [master](https://github.com/souhailmerroun-software-dev/html/tree/master): 2 years, 3 months ago
 - [souhailmerroun-patch-1](https://github.com/souhailmerroun-software-dev/html/tree/souhailmerroun-patch-1): 2 years, 8 months ago
 
 ## [vscode](https://github.com/souhailmerroun-software-dev/vscode)
@@ -126,8 +126,8 @@
 - [main](https://github.com/souhailmerroun-software-dev/pre-commit/tree/main): 3 years, 1 months ago
 
 ## [directus](https://github.com/souhailmerroun-software-dev/directus)
-- [self-hosted-quickstart-guide](https://github.com/souhailmerroun-software-dev/directus/tree/self-hosted-quickstart-guide): 2 years, 9 months ago
-- [main](https://github.com/souhailmerroun-software-dev/directus/tree/main): 2 years, 9 months ago
+- [self-hosted-quickstart-guide](https://github.com/souhailmerroun-software-dev/directus/tree/self-hosted-quickstart-guide): 2 years, 10 months ago
+- [main](https://github.com/souhailmerroun-software-dev/directus/tree/main): 2 years, 10 months ago
 
 ## [agora](https://github.com/souhailmerroun-software-dev/agora)
 - [agora-react-basic-webinar-with-both-microphone-and-camera-and-screen-share](https://github.com/souhailmerroun-software-dev/agora/tree/agora-react-basic-webinar-with-both-microphone-and-camera-and-screen-share): 2 years, 10 months ago
@@ -163,7 +163,7 @@
 ## [strapi](https://github.com/souhailmerroun-software-dev/strapi)
 - [quick-start+config-sync](https://github.com/souhailmerroun-software-dev/strapi/tree/quick-start+config-sync): 2 years, 11 months ago
 - [quick-start](https://github.com/souhailmerroun-software-dev/strapi/tree/quick-start): 2 years, 11 months ago
-- [main](https://github.com/souhailmerroun-software-dev/strapi/tree/main): 2 years, 11 months ago
+- [main](https://github.com/souhailmerroun-software-dev/strapi/tree/main): 3 years, 0 months ago
 
 ## [docker](https://github.com/souhailmerroun-software-dev/docker)
 - [main](https://github.com/souhailmerroun-software-dev/docker/tree/main): 3 years, 1 months ago
