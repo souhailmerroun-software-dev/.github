@@ -214,7 +214,7 @@
 - [main](https://github.com/souhailmerroun-software-dev/babel/tree/main): 3 years, 7 months ago
 
 ## [svelte](https://github.com/souhailmerroun-software-dev/svelte)
-- [master](https://github.com/souhailmerroun-software-dev/svelte/tree/master): 3 years, 7 months ago
+- [master](https://github.com/souhailmerroun-software-dev/svelte/tree/master): 3 years, 8 months ago
 
 ## [chrome-extensions](https://github.com/souhailmerroun-software-dev/chrome-extensions)
 - [master](https://github.com/souhailmerroun-software-dev/chrome-extensions/tree/master): 3 years, 8 months ago
