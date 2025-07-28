@@ -138,7 +138,7 @@
 - [webinar-call](https://github.com/souhailmerroun-software-dev/agora/tree/webinar-call): 2 years, 11 months ago
 - [AgoraIO-Community/Agora-RTC-React/Example-withProps](https://github.com/souhailmerroun-software-dev/agora/tree/AgoraIO-Community/Agora-RTC-React/Example-withProps): 2 years, 11 months ago
 - [AgoraIO-Community/Agora-RTC-React/Example](https://github.com/souhailmerroun-software-dev/agora/tree/AgoraIO-Community/Agora-RTC-React/Example): 2 years, 11 months ago
-- [video-call](https://github.com/souhailmerroun-software-dev/agora/tree/video-call): 2 years, 11 months ago
+- [video-call](https://github.com/souhailmerroun-software-dev/agora/tree/video-call): 3 years, 0 months ago
 - [main](https://github.com/souhailmerroun-software-dev/agora/tree/main): 3 years, 0 months ago
 
 ## [swagger](https://github.com/souhailmerroun-software-dev/swagger)
@@ -161,8 +161,8 @@
 - [main](https://github.com/souhailmerroun-software-dev/react-native/tree/main): 2 years, 11 months ago
 
 ## [strapi](https://github.com/souhailmerroun-software-dev/strapi)
-- [quick-start+config-sync](https://github.com/souhailmerroun-software-dev/strapi/tree/quick-start+config-sync): 2 years, 11 months ago
-- [quick-start](https://github.com/souhailmerroun-software-dev/strapi/tree/quick-start): 2 years, 11 months ago
+- [quick-start+config-sync](https://github.com/souhailmerroun-software-dev/strapi/tree/quick-start+config-sync): 3 years, 0 months ago
+- [quick-start](https://github.com/souhailmerroun-software-dev/strapi/tree/quick-start): 3 years, 0 months ago
 - [main](https://github.com/souhailmerroun-software-dev/strapi/tree/main): 3 years, 0 months ago
 
 ## [docker](https://github.com/souhailmerroun-software-dev/docker)
