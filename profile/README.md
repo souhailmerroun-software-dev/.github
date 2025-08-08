@@ -20,7 +20,7 @@
 ## [nextjs](https://github.com/souhailmerroun-software-dev/nextjs)
 - [15.2-getting-started-installation](https://github.com/souhailmerroun-software-dev/nextjs/tree/15.2-getting-started-installation): 4 months ago
 - [main](https://github.com/souhailmerroun-software-dev/nextjs/tree/main): 4 months ago
-- [getting-started/layouts-and-pages](https://github.com/souhailmerroun-software-dev/nextjs/tree/getting-started/layouts-and-pages): 6 months ago
+- [getting-started/layouts-and-pages](https://github.com/souhailmerroun-software-dev/nextjs/tree/getting-started/layouts-and-pages): 7 months ago
 
 ## [apiplatform](https://github.com/souhailmerroun-software-dev/apiplatform)
 - [4.1-Installation-Using-Symfony-CLI](https://github.com/souhailmerroun-software-dev/apiplatform/tree/4.1-Installation-Using-Symfony-CLI): 4 months ago
@@ -171,7 +171,7 @@
 - [issues/1-setup-a-mysql-database-server](https://github.com/souhailmerroun-software-dev/docker/tree/issues/1-setup-a-mysql-database-server): 3 years, 6 months ago
 
 ## [figma](https://github.com/souhailmerroun-software-dev/figma)
-- [How-to-design-buttons-in-Figma-/-Use-variants-and-booleans-for-multiple-states](https://github.com/souhailmerroun-software-dev/figma/tree/How-to-design-buttons-in-Figma-/-Use-variants-and-booleans-for-multiple-states): 3 years, 2 months ago
+- [How-to-design-buttons-in-Figma-/-Use-variants-and-booleans-for-multiple-states](https://github.com/souhailmerroun-software-dev/figma/tree/How-to-design-buttons-in-Figma-/-Use-variants-and-booleans-for-multiple-states): 3 years, 3 months ago
 - [main](https://github.com/souhailmerroun-software-dev/figma/tree/main): 3 years, 3 months ago
 
 ## [nodejs](https://github.com/souhailmerroun-software-dev/nodejs)
